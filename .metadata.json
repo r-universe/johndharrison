@@ -1,0 +1,14 @@
+[
+  {
+    "package": "RSauceLabs",
+    "oncran": true
+  },
+  {
+    "package": "seleniumPipes",
+    "oncran": true
+  },
+  {
+    "package": "semver",
+    "oncran": true
+  }
+]
