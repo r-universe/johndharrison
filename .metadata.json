@@ -1,10 +1,10 @@
 [
   {
-    "package": "seleniumPipes",
+    "package": "RSauceLabs",
     "oncran": true
   },
   {
-    "package": "RSauceLabs",
+    "package": "seleniumPipes",
     "oncran": true
   },
   {
