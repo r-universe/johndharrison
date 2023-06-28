@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RSauceLabs"]
 	path = RSauceLabs
 	url = https://github.com/johndharrison/rsaucelabs
-	shallow = true
-	registered = true
 [submodule "seleniumPipes"]
 	path = seleniumPipes
 	url = https://github.com/johndharrison/seleniumpipes
-	shallow = true
-	registered = true
 [submodule "semver"]
 	path = semver
 	url = https://github.com/johndharrison/semver
-	shallow = true
-	registered = true
