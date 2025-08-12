@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RSauceLabs"]
-	path = RSauceLabs
-	url = https://github.com/johndharrison/rsaucelabs
-[submodule "seleniumPipes"]
-	path = seleniumPipes
-	url = https://github.com/johndharrison/seleniumpipes
 [submodule "semver"]
 	path = semver
 	url = https://github.com/johndharrison/semver
